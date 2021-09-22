@@ -1,5 +1,5 @@
 class Player {
-  /* constructor() {
+ constructor() {
     this.name = null;
     this.index = null;
     this.positionX = 0;
@@ -20,5 +20,5 @@ class Player {
       positionX: this.positionX,
       positionY: this.positionY,
     });
-  } */
+  } 
 }
